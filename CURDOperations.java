@@ -12,8 +12,8 @@ public class CURDOperations
 {
 
     static final String URL = "jdbc:mysql://localhost:3306/sakila"; 
-    static final String USER = "root"; // your username
-    static final String PASS = "mysql"; // your password
+    static final String USER = "root"; 
+    static final String PASS = "mysql"; 
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args)
